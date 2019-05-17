@@ -1,0 +1,9 @@
+Building Liracoin
+
+See doc/readme-qt.rst for instructions on building Liracoin QT,
+the intended-for-end-users, nice-graphical-interface, reference
+implementation of Liracoin.
+
+See doc/build-*.txt for instructions on building liracoind,
+the intended-for-services, no-graphical-interface, reference
+implementation of Liracoin.
